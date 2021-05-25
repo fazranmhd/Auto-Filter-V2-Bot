@@ -5,13 +5,14 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<b>I'm Master filter Bot 
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Just add me to your group and channel And connect them and see my powers 🔥🔥 .
 
-For More Details Click Help Button Below..
-@CrazyBotsz
-</i>"""    
+For more details hit /help command ....
+
+Powered by @DevelopedBots .
+</b>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
