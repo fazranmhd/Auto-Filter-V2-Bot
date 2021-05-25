@@ -40,7 +40,7 @@ Powered by @DevelopedBots .
             
             👉 <code>Filter Types</code> - Button will show you the 3 filter option available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use them without the need of a restart
 
-            👉 <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
+            👉 <code>Configure</code> - The button will help you to change the number of pages / buttons per page / total result without actually editing the repository ... It also provides the option to enable / disable to show the invitation link in each result
             
             👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
