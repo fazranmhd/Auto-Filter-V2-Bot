@@ -15,34 +15,34 @@ Powered by @DevelopedBots .
 </b>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><u>How to use me❓</u></b>
 
-<i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
+<b>
+➡️ Add me to any group And make me admin. 
+➡️ Add me to your desired channel . 
+</b>
 
-<b>Bot Commands (Works Only In Groups) :</b>
+<b>Bot commands ( works only in groups ) 👇</b>
 
-    -> <code>/add chat_id</code>
-                OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
-     <code>/add @Username</code>
+    👉 <code>/add chat_id</code>
+                or                   
+     <code>/add @Username</code> - To connect a group with a channel (Bot should be admin with full previlages in both group and channel)
      
-    -> <code>/del chat_id</code>
-                OR                  - To disconnect A Group With A Channel
-     <code>/del @Username</code>
+    👉 <code>/del chat_id</code>
+                or                
+     <code>/del @Username</code> - To disconnect a group with a channel
      
-    -> <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
+    👉 <code>/delall</code>  - This command will disconnect all connected channel with the group and deletes all its file from DB 
     
-    -> <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
+    👉 <code>/settings</code> -  This command will display you a settings pannel instance which can be used to tweek bot's settings accordingly
 
-            -> <code>Channel</code> - Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls
+            👉 <code>Channel</code> - Button will show you all the connected chats with the group and will show buttons correspnding to there order for furthur controls
             
-            -> <code>Filter Types</code> - Button Will Show You The 3 Filter Option Available In Bot... Pressing Each Buttons Will Either Enable or Disable Them And This Will Take Into Action As Soon As You Use Them Without The Need Of A Restart
+            👉 <code>Filter Types</code> - Button will show you the 3 filter option available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use them without the need of a restart
 
-            -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
+            👉 <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
-            -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
+            👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
 @CrazyBotsz
 """
