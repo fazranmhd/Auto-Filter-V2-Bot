@@ -11,7 +11,7 @@ Just add me to your group and channel And connect them and see my powers 🔥�
 
 For more details hit /help command ....
 
-Powered by @DevelopedBots .
+Powered by @DevelopedBots 💖
 </b>"""    
     
     HELP_TEXT = """
@@ -42,18 +42,18 @@ Powered by @DevelopedBots .
 
             👉 <code>Configure</code> - The button will help you to change the number of pages / buttons per page / total result without actually editing the repository ... It also provides the option to enable / disable to show the invitation link in each result
             
-            👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
+            👉 <code>Status</code> - Button will shows the stats of your channel
             
-@CrazyBotsz
+Developed by @kunaldiwan 👨‍💻 .
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ 🤖 Name</b> : <code> Auto Filter V2 Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ 👨‍💻 Creator</b> : <b><a href="https://t.me/kunaldiwan">Kunal diwan</a></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ 🏳‍🌈 Language</b> : <code>Python3</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ 📚 Library</b> : <a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 """
