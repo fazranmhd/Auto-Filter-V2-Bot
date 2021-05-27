@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<b>I'm Master filter Bot 
+<b>I'm Auto filter V2 Bot 
 
 Just add me to your group and channel And connect them and see my powers 🔥🔥 .
 
