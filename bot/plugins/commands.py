@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer 👨‍💻', url="https://t.me/kunaldiwan"
+                                    'My developer 👨‍🔧', url="https://t.me/kunaldiwan"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer 👨‍💻', url="https://t.me/kunaldiwan"
+                                    'Dev 👨‍🏭', url="https://t.me/kunaldiwan"
                                 )
                         ]
                     ]
